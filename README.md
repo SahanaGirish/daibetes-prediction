@@ -49,8 +49,3 @@ How it Works?
 
 After installing the dependencies, the dataset is loaded from the csv file. Before training the model it is necessary to perform data preprocessing. After preprocessing of the data, the dataset is grouped for training and testing the model. The training dataset is used to train the linear SVM. The trained model is then used for testing on the test dataset. Using the Accuracy score (from Scikit-learn package) we can determine the accuracy of the trained model and tested model and the accuracy scores are compared.
 
-Acknowledgements:
-
-PIMA Dataset
-Diabetes Prediction
-SVM for diabetes Prediction
